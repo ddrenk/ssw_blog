@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Video Games in Contemporary Art"
 date:   2018-11-17 18:04:13 -0600
 categories: jekyll update
