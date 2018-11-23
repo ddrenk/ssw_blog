@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SimpleSoundWaves
+title: SimpleSoundWaves Blog
 email: moxxy@simplesoundwaves.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a musician and an engineer. I design and implement music and technology together to help others learn, teach, enjoy and be inspired; this is very important to my value system. My experience in producing, technology, teaching and learning fosters creative artistic expressions and installations, together with systems thinking, mindfulness, contemporary art, music, musicology, artistic performance and technology. I excel at being on both sides of the creative design process.
